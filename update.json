@@ -1,0 +1,6 @@
+{
+  "version": "1.0.1",
+  "url": "https://raw.githubusercontent.com/refkiindrahefiandes/pos-toko-bangunan-releases/main/pos-toko-bangunan.exe",
+  "changelog": "1. Penambahan fitur hapus penjualan kasir.\n2. Penambahan input diskon % barang masuk.",
+  "release_date": "2026-07-13"
+}
