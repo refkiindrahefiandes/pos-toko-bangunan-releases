@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "url": "https://raw.githubusercontent.com/refkiindrahefiandes/pos-toko-bangunan-releases/main/pos-toko-bangunan-amd64-installer.exe",
-  "changelog": "1. Rilis Versi 1.0.0",
-  "release_date": "2026-07-13"
+  "changelog": "1. Modifikasi interaksi menu klik & perbaruan ikon sub-menu dengan Flat Color Icons",
+  "release_date": "2026-07-14"
 }
